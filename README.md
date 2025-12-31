@@ -6,7 +6,7 @@ This repository contains remote sensing and geospatial analytics for data scienc
 
 Each application attempted to problem-solve real-world issues in environmental monitoring, climate research, and public health and considered how data results could aid in decision-making and planning processes. 
 
-[<img width="250" height="500" alt="Flood Risk classes in Taiwan" src="https://github.com/user-attachments/assets/8768e97c-b4d8-49c5-8ada-36bbd2ee3106" />]()
+[<img width="250" height="500" alt="Flood Risk classes in Taiwan" src="https://github.com/user-attachments/assets/8768e97c-b4d8-49c5-8ada-36bbd2ee3106" />](https://github.com/chenwh0/GeospatialDataAndMachineLearning/blob/main/FloodRiskFinalProject/IEEE_Conference_Paper_Results.pdf)
 
 * Remote Sensing and Satellite Systems
 * Analyzing Air Quality Data (PM₂.₅, NO₂, and Related Pollutants)
