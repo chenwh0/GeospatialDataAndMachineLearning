@@ -4,7 +4,7 @@ This repository contains remote sensing and geospatial analytics for data scienc
 
 # Applications
 
-Real-world issues in environmental monitoring, climate research, and public health were addressed in each application to consider how data results could aid in decision-making and planning processes. 
+Each application attempted to problem-solve real-world issues in environmental monitoring, climate research, and public health and considered how data results could aid in decision-making and planning processes. 
 
 [<img width="250" height="500" alt="Flood Risk classes in Taiwan" src="https://github.com/user-attachments/assets/8768e97c-b4d8-49c5-8ada-36bbd2ee3106" />]()
 
